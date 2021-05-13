@@ -1,1 +1,2 @@
 Hello. Welcome to my new file.
+It is a file that I have modified from my local repo.
